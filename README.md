@@ -20,6 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaushik1216&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p></div>
 
 
-![snake gif](https://github.com/Kaushik1216/Kaushik1216/blob/output/github-contribution-grid-snake.gif)
-
-
